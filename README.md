@@ -12,7 +12,7 @@ The footer section will contain links  such as "About Us," "Contact Us," "Privac
 
 The styling of this Amazon clone will be similar to the original website. It will use a combination of colors such as Amazon's signature orange, black, and white.
 
-Provided all images required to use this project. Create a folder and add html, css file and images on visual studio code.
+Provided all images required for this project. Create a folder and add html, css file and images on visual studio code.
 
 
 
